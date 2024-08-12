@@ -2,9 +2,9 @@
 /* Your CSS Code here. */
 
 .holder{
-	height:200px;
-	width:200px;
+	height:100px;
+	width:100px;
 	display:grid;
-	grid-auto-rows:repeat(2,100px);
-	grid-auto-columns:repeat(2,100px);
+	grid-auto-rows:repeat;
+	grid-auto-columns:repeat;
 }
